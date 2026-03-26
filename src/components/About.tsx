@@ -6,7 +6,6 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-        <p className="para">
           I'm Ayush Sharma, a B.Tech student in Artificial Intelligence &
           Machine Learning at GL Bajaj Group of Institutions, Mathura. My
           current focus is on <strong>Generative AI, Retrieval-Augmented
